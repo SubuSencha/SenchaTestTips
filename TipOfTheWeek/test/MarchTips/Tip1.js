@@ -1,5 +1,5 @@
 describe("Tip1", function() {
-    it("should pass", function() {
+    xit("should pass", function() {
         //Click on the email list item
         ST.component('treelistitem[text=Email]').click();
         //Click on the compose menu item

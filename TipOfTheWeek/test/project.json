@@ -10,7 +10,16 @@
             "globals": "*",
             "directory": "MarchTips",
             "name": "MarchTips",
-            "page": "http://examples.sencha.com/extjs/6.2.0/examples/admin-dashboard/#dashboard"
+            "page": "http://examples.sencha.com/extjs/6.2.0/examples/kitchensink/#simple-combo"
+        },
+        {
+            "libs": [],
+            "coverageFilters": [],
+            "sandbox": true,
+            "globals": "*",
+            "directory": "AprilTips",
+            "page": "http://examples.sencha.com/extjs/6.2.0/examples/kitchensink/#simple-combo",
+            "name": "AprilTips"
         }
     ]
 }
