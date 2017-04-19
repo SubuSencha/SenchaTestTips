@@ -1,6 +1,7 @@
 describe("Checkbox validation", function() {
     beforeAll(function(){
-        //Navigate to the checkbox kitchensink example
+        //Since we have the URL set to combo box in the scenario
+        // we are using ST.navigate to launch the checkbox kitchensink example
         ST.navigate('http://examples.sencha.com/extjs/6.2.0/examples/kitchensink/#form-checkboxgroup');
     });
     it("should select the correct checkbox", function() {
